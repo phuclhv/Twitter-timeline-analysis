@@ -1,0 +1,21 @@
+{
+  "name":"Phuc",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "A Twitter button for your browser",
+  "icons":{"128":"icon.png"},
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "js": ["jquery-1.12.4.min.js", "plotly-latest.min.js", "script.js"],
+      "css": ["style.css"]
+    }],
+  "permissions": [
+    "https://api.twitter.com/1.1/",
+    "https://gateway.watsonplatform.net/personality-insights/api/",
+    "https://gateway.watsonplatform.net/natural-language-understanding/api/",
+    "tabs"
+  ]
+}
