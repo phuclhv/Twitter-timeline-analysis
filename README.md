@@ -7,3 +7,6 @@ How to use:
 3) Click on "Developer mode" box. 
 4) Choose "Loaded unpacked extension" and then directed to the downloaded folder. 
 5) Open Twitter and use it. 
+
+![Sample](Sample1.png)
+![Sample](Sample2.png)
