@@ -9,4 +9,4 @@ How to use:
 5) Open Twitter and use it. 
 
 ![Sample](Sample-Images/Image1.png)
-![Sample](Sameple-Images/Image2.png)
+![Sample](Sample-Images/Image2.png)
